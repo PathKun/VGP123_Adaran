@@ -1,0 +1,1513 @@
+fileFormatVersion: 2
+guid: e92cb575ed0878d488312cae34b8e99e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Browser Games - Adaran - Enemies_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 207
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb373cd34c2472347924cec55bf90775
+      internalID: -915596199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Adaran - Enemies_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 206
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb68c3b4ce0c844791b3daab7d08f3c
+      internalID: -1949504362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Adaran - Enemies_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 206
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f046a3ca47a054c99e488c0c741884
+      internalID: -1493133450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Adaran - Enemies_3
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 207
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4068017cc2819cd418234c6886134611
+      internalID: 1253606541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Adaran - Enemies_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 207
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b836c8c5ff14d645a9f673872a4aebf
+      internalID: 1880416505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Adaran - Enemies_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 209
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc80e0399fbf834e92934a0a5379120
+      internalID: -265500743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Adaran - Enemies_6
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 193
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b6adaf164258f46a87f4e10db63dbf
+      internalID: -84484374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Adaran - Enemies_7
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 193
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a1146b20640e94cbc7e9f8cb2ebea0
+      internalID: 1892736922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Adaran - Enemies_8
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 193
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1d1e9a8064e2f40a0db1543415dd44
+      internalID: -1500379025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Adaran - Enemies_9
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 193
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72730b06d2fd29048bad23a78b50ab1f
+      internalID: -365897194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Adaran - Enemies_10
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 193
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473075e90ae332c48ad12e95023afbcc
+      internalID: -575039988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Adaran - Enemies_11
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 193
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb8ca744d9c08d4283774d869487d68
+      internalID: -1018411696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Adaran - Enemies_12
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 193
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f7f18460cf5c74c95050c0e350184d
+      internalID: 918430711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Adaran - Enemies_13
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 193
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1387c3ef03ca80a4a80381f5cbd81154
+      internalID: 534758459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Adaran - Enemies_14
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 167
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3e0ded472982e4f8d357ae37644cf2
+      internalID: 1176365782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Adaran - Enemies_15
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 166
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70db02f1f0593f40b8158ae85164646
+      internalID: 1249248263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Adaran - Enemies_16
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 166
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803beb27fa1f7624aab0eaba8135449f
+      internalID: -405123099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Adaran - Enemies_17
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 167
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370ce1cdad2e8184daffef3eb43e696f
+      internalID: -1971407745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Adaran - Enemies_18
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 167
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c227b1aaf99f6394fa4aacd5238ac243
+      internalID: -1963081606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Adaran - Enemies_19
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 169
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8b82714643698439438f44e5e0bb23
+      internalID: 1091615657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Adaran - Enemies_20
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 142
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b96333978e6514f8c6911e842758e4
+      internalID: -2050621665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Adaran - Enemies_21
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 143
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aea361f19c13a24faee8faf98b3d6aa
+      internalID: 1601836366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Adaran - Enemies_22
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 145
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38d02e1652bce845b14c83e90da185b
+      internalID: -1403045262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Adaran - Enemies_23
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 142
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcca5f6c7cbdf8b4d893cf7fe89c0518
+      internalID: -1794423253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Adaran - Enemies_24
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 139
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a10a7d74054b14090b628b77305e49
+      internalID: 1812742157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Adaran - Enemies_25
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 141
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecec7bc83844e2b46b75fa5401919062
+      internalID: -1606514677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Adaran - Enemies_26
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 121
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20e9dd673da1fd4f9d26c9839bdbdfe
+      internalID: 221128997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Adaran - Enemies_27
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 121
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9a5d90e3358564b912f4412181def8
+      internalID: -1827682366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Adaran - Enemies_28
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 121
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0c256ed3879c042a10d112d6306875
+      internalID: -1714051073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Adaran - Enemies_29
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 121
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f1df5a05ad1344ea77ca5c6f644718
+      internalID: 1938839570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Adaran - Enemies_30
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 98
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a685a5b032115894c8743cab6500074a
+      internalID: 382641819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Adaran - Enemies_31
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 104
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38469cf2d285f7c4e8627f15333e036c
+      internalID: -815002193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Adaran - Enemies_32
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 104
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e685932a8fd90d543ad6b220ec8ca939
+      internalID: -2144826625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Adaran - Enemies_33
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 102
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9dc7a69a37a9084fbb19d1989369afc
+      internalID: 872845342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Adaran - Enemies_34
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 101
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8760051138157704682850f4aa21d8fc
+      internalID: 1507510575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Adaran - Enemies_35
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 84
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049a6205ab429c74a84a82008b5f627b
+      internalID: -163442592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Adaran - Enemies_36
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 85
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb121c6d480c1b47bee04df02fedc6c
+      internalID: 913641022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Adaran - Enemies_37
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 69
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb24a52a36a0fc4cadb0e93710d645f
+      internalID: 1765489527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Adaran - Enemies_38
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 71
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111db4cbb934f474aa5a51e62c2aa904
+      internalID: 1692641942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Adaran - Enemies_39
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 72
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414b5e208c589514ca57af4b956c93fc
+      internalID: -1128537751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Adaran - Enemies_40
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 68
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872b7103169c3004296aa7a4e72c8da7
+      internalID: -509579979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Adaran - Enemies_41
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 67
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07ea3ab0be03e74987968e410f98393
+      internalID: -114738256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Adaran - Enemies_42
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 71
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9336e3d00665d42b48c492c0e75cb9
+      internalID: -396290480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Adaran - Enemies_43
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 70
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6362ec0e1d294d743bc47d3525bba7ff
+      internalID: -1883637502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Adaran - Enemies_44
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 49
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4f71048da494b4fae6f80314cf390b
+      internalID: -1746024759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Adaran - Enemies_45
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 53
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b984869bd3808724d88427b60cae26a2
+      internalID: -872681141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Adaran - Enemies_46
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 52
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaae0a00391b3b54cb6bd4a9b8427a51
+      internalID: -135617390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Adaran - Enemies_47
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 51
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5080bea730ac45a42859261443cccd71
+      internalID: -1150907316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Adaran - Enemies_48
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 49
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a551af0f1039bf4f90c0ace85006215
+      internalID: 1746003580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Adaran - Enemies_49
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 26
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92676b084368096498226e773025cb39
+      internalID: 1930370007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Adaran - Enemies_50
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 28
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e251181981c52b4386a682539e65dcb
+      internalID: 1434004235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Adaran - Enemies_51
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 31
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d426d1c1ebacf48b552f71fc4c51a8
+      internalID: -21995345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Adaran - Enemies_52
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 35
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310f5853184355448b036a1983621689
+      internalID: 2004695862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Adaran - Enemies_53
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 31
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a62694163b14224abdeff56547c33e6
+      internalID: 620333810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Adaran - Enemies_54
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 26
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f02cebb813cef45a504d1ededd165d
+      internalID: -42329839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Adaran - Enemies_55
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5300fc038ee80394fbf34ab18c1d1c74
+      internalID: 1222414650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Adaran - Enemies_56
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 2
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d033a2d31f992d40ace766de3c59098
+      internalID: 1263580890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Adaran - Enemies_57
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 2
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be1169157ccaba4798bc4e130b9cdaf
+      internalID: -503465275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Adaran - Enemies_58
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49dd3765256f624dadf4448e911cb9c
+      internalID: 399611385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Adaran - Enemies_59
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f75641e73435343b504eabaae8b081
+      internalID: 1138225248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Adaran - Enemies_60
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61134fe1b83d854bb2d2ed15aeb2e83
+      internalID: -795902875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Adaran - Enemies_61
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 2
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9160646d4bd04d34aae2dfc9fa9d9060
+      internalID: -645020284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Adaran - Enemies_62
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 2
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ccc40b6ed82cb4db1e9789ee6b6615
+      internalID: -1802836806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Browser Games - Adaran - Enemies_0: -915596199
+      Browser Games - Adaran - Enemies_1: -1949504362
+      Browser Games - Adaran - Enemies_10: -575039988
+      Browser Games - Adaran - Enemies_11: -1018411696
+      Browser Games - Adaran - Enemies_12: 918430711
+      Browser Games - Adaran - Enemies_13: 534758459
+      Browser Games - Adaran - Enemies_14: 1176365782
+      Browser Games - Adaran - Enemies_15: 1249248263
+      Browser Games - Adaran - Enemies_16: -405123099
+      Browser Games - Adaran - Enemies_17: -1971407745
+      Browser Games - Adaran - Enemies_18: -1963081606
+      Browser Games - Adaran - Enemies_19: 1091615657
+      Browser Games - Adaran - Enemies_2: -1493133450
+      Browser Games - Adaran - Enemies_20: -2050621665
+      Browser Games - Adaran - Enemies_21: 1601836366
+      Browser Games - Adaran - Enemies_22: -1403045262
+      Browser Games - Adaran - Enemies_23: -1794423253
+      Browser Games - Adaran - Enemies_24: 1812742157
+      Browser Games - Adaran - Enemies_25: -1606514677
+      Browser Games - Adaran - Enemies_26: 221128997
+      Browser Games - Adaran - Enemies_27: -1827682366
+      Browser Games - Adaran - Enemies_28: -1714051073
+      Browser Games - Adaran - Enemies_29: 1938839570
+      Browser Games - Adaran - Enemies_3: 1253606541
+      Browser Games - Adaran - Enemies_30: 382641819
+      Browser Games - Adaran - Enemies_31: -815002193
+      Browser Games - Adaran - Enemies_32: -2144826625
+      Browser Games - Adaran - Enemies_33: 872845342
+      Browser Games - Adaran - Enemies_34: 1507510575
+      Browser Games - Adaran - Enemies_35: -163442592
+      Browser Games - Adaran - Enemies_36: 913641022
+      Browser Games - Adaran - Enemies_37: 1765489527
+      Browser Games - Adaran - Enemies_38: 1692641942
+      Browser Games - Adaran - Enemies_39: -1128537751
+      Browser Games - Adaran - Enemies_4: 1880416505
+      Browser Games - Adaran - Enemies_40: -509579979
+      Browser Games - Adaran - Enemies_41: -114738256
+      Browser Games - Adaran - Enemies_42: -396290480
+      Browser Games - Adaran - Enemies_43: -1883637502
+      Browser Games - Adaran - Enemies_44: -1746024759
+      Browser Games - Adaran - Enemies_45: -872681141
+      Browser Games - Adaran - Enemies_46: -135617390
+      Browser Games - Adaran - Enemies_47: -1150907316
+      Browser Games - Adaran - Enemies_48: 1746003580
+      Browser Games - Adaran - Enemies_49: 1930370007
+      Browser Games - Adaran - Enemies_5: -265500743
+      Browser Games - Adaran - Enemies_50: 1434004235
+      Browser Games - Adaran - Enemies_51: -21995345
+      Browser Games - Adaran - Enemies_52: 2004695862
+      Browser Games - Adaran - Enemies_53: 620333810
+      Browser Games - Adaran - Enemies_54: -42329839
+      Browser Games - Adaran - Enemies_55: 1222414650
+      Browser Games - Adaran - Enemies_56: 1263580890
+      Browser Games - Adaran - Enemies_57: -503465275
+      Browser Games - Adaran - Enemies_58: 399611385
+      Browser Games - Adaran - Enemies_59: 1138225248
+      Browser Games - Adaran - Enemies_6: -84484374
+      Browser Games - Adaran - Enemies_60: -795902875
+      Browser Games - Adaran - Enemies_61: -645020284
+      Browser Games - Adaran - Enemies_62: -1802836806
+      Browser Games - Adaran - Enemies_7: 1892736922
+      Browser Games - Adaran - Enemies_8: -1500379025
+      Browser Games - Adaran - Enemies_9: -365897194
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
